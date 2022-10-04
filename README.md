@@ -1,4 +1,7 @@
+
 ### 
+About me:
+
 • Second-year student at Nanyang Technological University, Singapore
 • Pursuing a bachelors in computer sceience and a masters in technology management as a Renaissance Engineering Programme Scholar
 • Passionate about software and tech and enjoy working with algorithms 👋
