@@ -9,7 +9,7 @@
   
 </div>
 
-- 🔭 I’m currently exploring ** Various Algorithms and Web3**
+- 🔭 I’m currently exploring **Various Algorithms and Web3**
 
 - 🌱 I’m currently involved in **Web Development**
 
