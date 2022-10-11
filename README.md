@@ -45,6 +45,12 @@
 
 <br />
 
+## Github Stats
+
+| <img src="https://github-readme-stats.vercel.app/api?username=ayushmandixit2000&&show_icons=true&count_private=true&theme=github_dark"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushmandixit2000&theme=blueberry_duo"/> |
+| ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
+
+
 ------
 
 [Ayushman Dixit](https://github.com/ayushmandixit2000)
