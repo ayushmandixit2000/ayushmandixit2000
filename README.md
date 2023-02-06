@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to join some **Hackathons**
 
-- 📫 How to reach me: **ayushmandixit2000@gmail.com**
+- 📫 My Website: **www.ayushmandixit.com**
 
 <br />
 
