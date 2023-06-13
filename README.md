@@ -44,6 +44,10 @@
 </div>
 
 <br />
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ayushmandixit2000&theme=react&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height= "150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ayushmandixit2000&theme=react&layout=compact" />
+</p>
 
 ------
 
