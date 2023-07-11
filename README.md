@@ -48,7 +48,10 @@
   <img height= "150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ayushmandixit2000&theme=react&show_icons=true&include_all_commits=true&count_private=true" />
   <img height= "150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ayushmandixit2000&theme=react&layout=compact" />
 </p>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ayushmandixit2000&theme=dark&background=000000)](https://git.io/streak-stats)
+<div align="center">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chayhuixiang&theme=dark&background=000000)](https://git.io/streak-stats)
+</div>
 
 ------
 
